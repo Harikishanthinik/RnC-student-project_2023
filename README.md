@@ -2,8 +2,6 @@ Inside ros2 workshop
 
 In terminal : git clone https://github.com/Harikishanthinik/src
 
-you can see src folder
+you can see e-yantra folder
 
-build workshop 
-
-***arm_setup_ws***   is  **workspase.** 
+***arm_setup_ws***   is  **workspase.*
